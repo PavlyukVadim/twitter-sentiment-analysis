@@ -1,0 +1,5 @@
+.vscode
+data
+twitter_credentials.json
+test.ipynb
+sentiment-analysis.ipynb
