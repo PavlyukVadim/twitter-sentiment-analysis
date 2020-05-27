@@ -2,4 +2,4 @@
 data
 twitter_credentials.json
 test.ipynb
-sentiment-analysis.ipynb
+sentiment-analysis-legacy.ipynb
